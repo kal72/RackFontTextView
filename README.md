@@ -1,12 +1,13 @@
 # RackFontTextView
 
-Android Library untuk custom font face TextView
+Android Library untuk custom font face TextView.
 
 BY: RackSpira
 
 Download
 --------
 Download via Maven:
+
 Add the JitPack repository to your build file
 ```xml
 <repositories>
@@ -26,7 +27,8 @@ Add the dependency
 ```
 
 via Gradle:
-Add it in your root build.gradle at the end of repositories:
+
+Add it in your root build.gradle at the end of repositories
 ```groovy
 allprojects {
 		repositories {
